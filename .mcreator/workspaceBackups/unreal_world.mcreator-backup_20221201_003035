@@ -141,6 +141,30 @@
         "eb": true,
         "ec": true
       }
+    },
+    {
+      "name": "Leave",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leave"
+    },
+    {
+      "name": "StarIngot",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "star_ingot"
+    },
+    {
+      "name": "IfritCoal",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ifrit_coal"
     }
   ],
   "variable_elements": [],
@@ -155,6 +179,7 @@
       "item.unreal_world.sky_hekmet_helmet": "Sky Шлем",
       "item.unreal_world.piece_of_cloud": "Piece Of Cloud",
       "item.unreal_world.sky_hekmet_leggings": "Sky Поножи",
+      "item.unreal_world.ifrit_coal": "Ifrit Coal",
       "block.unreal_world.cloud_block": "Cloud Block",
       "item.unreal_world.ebaka_spawn_egg": "Ebaka Spawn Egg",
       "item.unreal_world.sky_hekmet_boots": "Sky Ботинки",
@@ -162,6 +187,8 @@
       "entity.unreal_world.ebaka": "Ebaka",
       "item.unreal_world.sky_hekmet_chestplate": "Sky Кираса",
       "block.unreal_world.strange_stone": "Strange Stone",
+      "block.unreal_world.leave": "PinkLeaves",
+      "item.unreal_world.star_ingot": "Star Ingot",
       "item.unreal_world.earth_rune": "Earth Rune",
       "item.unreal_world.sky_sword": "Sky Sword",
       "block.unreal_world.cloud_slab": "Cloud Slab",
